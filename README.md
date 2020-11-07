@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yd3j8ucxm40er0wo?svg=true)](https://ci.appveyor.com/project/MKSInc/ahj-hw-6-dnd-2-modern-image-manager)
+### [Gh-page](https://mksinc.github.io/AHJ-hw.-6-DnD.-2-Modern-image-manager/)
 # 6. Домашнее задание к лекции «Работа с файлами, DnD»
 
 Правила сдачи задания:
