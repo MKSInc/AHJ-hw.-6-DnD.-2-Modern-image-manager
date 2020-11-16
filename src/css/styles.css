@@ -1,24 +1,6 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+@import "main.css";
+@import "btn/btn.css";
+@import "image-manager/image-manager.css";
+@import "drop-area/drop-area.css";
 
-body {
-  font-family: sans-serif;
-  padding-top: 10px;
-}
-
-h1, h2 {
-  text-align: center;
-}
-
-h1 {
-  font-size: 1.5em;
-  margin-bottom: 10px;
-}
-
-h2 {
-  font-size: 1.3em;
-  margin-bottom: 30px;
-}
+@import "utility.css";
